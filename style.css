@@ -1,0 +1,90 @@
+
+body {
+    background-image: url('Untitled\ design.png');
+    background-size: cover;
+}
+
+.teksti2 {
+    width: 400px;
+    height: 300px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .teksti2 {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .nav {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav ul li {
+    display: inline;
+    margin: 10px;
+  }
+  
+  .nav ul li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .nav ul li a:hover {
+    color: #000;
+  }
+  
+  .content {
+    padding: 20px;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  .teksti {
+    border-style: groove;
+    border-width: 20px;
+    text-align: center
+}
+
+.p1 {
+    width: 500px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+        
+}
+.p2 {
+    width: 500px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    
+
+
+  
+        
